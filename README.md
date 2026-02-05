@@ -23,12 +23,6 @@ Que ce soit lors d'événements tels que des salons, pendant mes voyages ou simp
 
 ---
 
-### Statistiques GitHub
-![Stats de Timéo](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical&hide_border=true)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim%C3%A9o-dc/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timeodc@icloud.com)
