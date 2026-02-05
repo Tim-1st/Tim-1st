@@ -8,7 +8,14 @@ Actuellement en deuxième année de BUT MMI , je suis un jeune développeur Fron
 ### Ma Stack Technique
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,html,css,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+</a>
+</p>
+
+### Mes outils
+<p align="left">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=github,vscode,figma" />
 </a>
 </p>
 
