@@ -22,7 +22,7 @@ Actuellement en deuxième année de BUT MMI , je suis un jeune développeur Fron
 ### Les langages et logiciels que j'ai survolés
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=swift,react,unity" />
+  <img src="https://skillicons.dev/icons?i=swift,react,cs,unity" />
 </a>
 </p>
 
