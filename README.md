@@ -5,6 +5,7 @@ Actuellement en deuxième année de BUT MMI , je suis un jeune développeur Fron
 
 ### Je suis en recherche de stage ! 
 Recherche d'un stage rémunéré de 10 / 12 semaines minimum qui peut être prolongé à 22 semaines ou plus en entreprise du numérique / informatique ou audiovisuel pour le mois d'avril 2026.
+
 ---
 
 ### Ma Stack Technique
