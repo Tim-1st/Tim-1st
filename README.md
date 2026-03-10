@@ -25,7 +25,7 @@ Recherche d'un stage rémunéré de 10 / 12 semaines minimum qui peut être prol
 ### Les langages / logiciels / outils que j'ai survolés
 <p align="left">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=swift,react,cs,unity, git" />
+  <img src="https://skillicons.dev/icons?i=swift,react,cs,unity,git" />
 </a>
 </p>
 
