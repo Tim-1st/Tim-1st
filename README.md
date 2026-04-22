@@ -43,3 +43,4 @@ Que ce soit lors d'événements tels que des salons, pendant mes voyages ou simp
 ### Me contacter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tim%C3%A9o-dc/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timeodc@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://tim-1st.github.io/portfolio/)
