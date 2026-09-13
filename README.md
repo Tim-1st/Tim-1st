@@ -3,9 +3,6 @@
 ### Développeur Web en Apprentissage
 Actuellement en deuxième année de BUT MMI , je suis un jeune développeur Front-End désireux de renforcer mes compétences et d'acquérir de l'expérience en réalisant de petits projets. Mon projet professionnel s'oriente vers le développement web, et j'aimerais ainsi devenir développeur Full Stack.
 
-### Je suis en recherche d'une alternance ! 
-Recherche une alternance à compter du mois de septembre 2026 dans le secteur du numérique, de l’informatique ou de l’audiovisuel.
-
 ---
 
 ### Ma Stack Technique
