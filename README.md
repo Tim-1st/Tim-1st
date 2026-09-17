@@ -38,5 +38,4 @@ Que ce soit lors d'événements tels que des salons, pendant mes voyages ou simp
 ---
 
 ### Me contacter
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:timeodc@icloud.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://tim-1st.github.io/portfolio/)
