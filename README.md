@@ -29,11 +29,7 @@ Actuellement en deuxième année de BUT MMI , je suis un jeune développeur Fron
 ---
 
 ### Au-delà du code
-En parallèle de mes études et de mon parcours dans le domaine de l'informatique, je pratique une autre de mes passions : la photographie.
-
-J'ai développé un réel attrait pour l'audiovisuel, avec l'envie de capturer des émotions dans le temps et, surtout, de figer l'instant présent.
-
-Que ce soit lors d'événements tels que des salons, pendant mes voyages ou simplement par beau temps, il m'arrive de sortir avec mon X-T5 en main afin d'explorer avec attention l'univers qui m'entoure.
+En parallèle de mes études et de mon parcours dans le domaine du numérique, je pratique une autre de mes passions : la photographie. J'ai développé un réel attrait pour l'image et la captation d'émotions, j'aime figer l'instant présent pour en garder une trace. Que ce soit lors d'événements tels que des salons, au fil de mes voyages ou simplement par beau temps, il m'arrive de sortir avec mon Fujifilm X-T5 pour explorer avec attention l'univers qui m'entoure.
 
 ---
 
